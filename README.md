@@ -1,6 +1,6 @@
 # Google Search UI
 A Search UI using C#.net & Selenium Automation Framework
---------------------------------------------------------
+---------------------------------------------------------
 Enter what you have in mind to search in string "search" and the Google Search UI will-
 
     *open Chrome
@@ -15,3 +15,5 @@ Enter what you have in mind to search in string "search" and the Google Search U
     
     *close Chrome
     
+    
+Code is Located in GoogleUITest/GoogleUITest/UnitTest1.cs 
